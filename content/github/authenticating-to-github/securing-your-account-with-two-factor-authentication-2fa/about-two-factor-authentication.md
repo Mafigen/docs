@@ -21,7 +21,8 @@ We **strongly** urge you to enable 2FA for the safety of your account, not only 
 
 For more information, see "[Accessing {% data variables.product.prodname_dotcom %} using two-factor authentication](/articles/accessing-github-using-two-factor-authentication)."
 
-## Two-factor authentication recovery codes
+## Two-factor authentication recovery
+
 
 {% data reusables.two_fa.about-recovery-codes %} For more information, see "[Recovering your account if you lose your 2FA credentials](/articles/recovering-your-account-if-you-lose-your-2fa-credentials)."
 
